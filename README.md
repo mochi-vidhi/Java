@@ -1,14 +1,9 @@
-# Java
-# Design Patterns
+### Welcome to Java Tutorial ![](https://www.peakpx.com/en/hd-wallpaper-desktop-omfhd)
 
-## Overview
-
-This section provides examples of common design patterns used in software development.
-
-## Creational Patterns
-
-### Factory Pattern
 
 ```java
-// Factory Pattern example
-// Code snippet goes here
+class Hello{
+public static void main(){
+  System.out.println("Welcome to java Tutorial!!");
+}
+}
