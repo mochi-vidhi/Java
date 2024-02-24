@@ -16,6 +16,7 @@ public static void main(){
 - [Top programming Languages](https://www.statista.com/chart/16567/popular-programming-languages/).
 - java has multiple features which helps it to be used in the Enterprise market.
 ### Uses of java  😊☕
+```java
 - Desktop Applications such as acrobat reader, media player, antivirus, etc.🖥️
 - Web Applications such as irctc.co.in, javatpoint.com, etc.🌐
 - Enterprise Applications such as banking applications. 🏦
@@ -24,4 +25,21 @@ public static void main(){
 - Smart Card 🏧
 - Robotics 🤖
 - Games, etc. 🎮
+```
+###  NEXT ⏩ Features of Java 🚀☕
+```java
+- Simple
+- Object-Oriented
+- Portable
+- Platform independent
+- Secured
+- Robust
+- Architecture neutral
+- Interpreted
+- High Performance
+- Multithreaded
+- Distributed
+- Dynamic          ![image](https://github.com/mochi-vidhi/Java/assets/148563893/3494024a-1750-49f2-98f3-82c3042d04cf)
+
+```
  
