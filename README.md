@@ -41,7 +41,7 @@ public static void main(){
 - Distributed
 - Dynamic   
 ```
-### c++ 🆚 c++
+### c++ 🆚 java
 | Topic                | C++                                        | Java                                       |
 |----------------------|--------------------------------------------|--------------------------------------------|
 | Memory Management    | Use of pointers, structures, union         | No use of pointers. Supports references, thread and interfaces. |
@@ -51,6 +51,17 @@ public static void main(){
 | Program Handling     | Functions and variables can reside outside classes. | Functions and variables reside only in classes, packages are used. |
 | Portability          | Platform dependent, must be recompiled for different platform | Platform independent, byte code generated works on every OS. |
 | Thread Support       | No built-in support for threads, depends on libraries. | It has built-in thread support.            |
+### java ⚔️ Python
+| Topic                | Java                                        | Python                                      |
+|----------------------|---------------------------------------------|---------------------------------------------|
+| Compilation process | Both compiled and interpreted. Compiled into bytecode, then interpreted. | Interpreted language, code is executed directly. |
+| Code Length          | Longer lines of code compared to Python.    | 3-5 times shorter than equivalent Java programs. |
+| Syntax Complexity    | Block defined by curly braces, end statements by semicolons. | No need for semicolons or curly braces, uses indentation. |
+| Ease of Typing       | Strongly typed, requires defining exact datatypes. | Dynamically typed, no need to define exact datatypes. |
+| Speed of Execution   | Faster execution speed compared to Python.  | Expected to run slower than Java programs.   |
+| Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
+
+
 
 
  
