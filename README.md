@@ -41,16 +41,16 @@ public static void main(){
 - Distributed
 - Dynamic   
 ```
-| Feature       | Emoji                |
-|---------------|----------------------|
-| Performance   | 🚀                   |
-| Security      | 🔒                   |
-| Modularity    | 🧩                   |
-| Compatibility | 🔄                   |
-| Analytics     | 📊                   |
-| Scalability   | 🌐                   |
-| Technology    | 💻                   |
-| Protection    | 🛡️                   |
-| Customization | 🎨                   |
+### c++ 🆚 c++
+| Topic                | C++                                        | Java                                       |
+|----------------------|--------------------------------------------|--------------------------------------------|
+| Memory Management    | Use of pointers, structures, union         | No use of pointers. Supports references, thread and interfaces. |
+| Libraries            | Comparatively available with low-level functionalities | Wide range of classes for various high-level services |
+| Multiple Inheritance | Provide both single and multiple inheritance. | Multiple inheritances is partially done through interfaces |
+| Operator Overloading | Supports operator overloading              | It doesn’t support this feature            |
+| Program Handling     | Functions and variables can reside outside classes. | Functions and variables reside only in classes, packages are used. |
+| Portability          | Platform dependent, must be recompiled for different platform | Platform independent, byte code generated works on every OS. |
+| Thread Support       | No built-in support for threads, depends on libraries. | It has built-in thread support.            |
+
 
  
