@@ -39,7 +39,18 @@ public static void main(){
 - High Performance
 - Multithreaded
 - Distributed
-- Dynamic          ![image](https://github.com/mochi-vidhi/Java/assets/148563893/3494024a-1750-49f2-98f3-82c3042d04cf)
-
+- Dynamic   
 ```
+| Feature       | Emoji                |
+|---------------|----------------------|
+| Performance   | 🚀                   |
+| Security      | 🔒                   |
+| Modularity    | 🧩                   |
+| Compatibility | 🔄                   |
+| Analytics     | 📊                   |
+| Scalability   | 🌐                   |
+| Technology    | 💻                   |
+| Protection    | 🛡️                   |
+| Customization | 🎨                   |
+
  
