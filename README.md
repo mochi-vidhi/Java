@@ -60,7 +60,9 @@ public static void main(){
 | Ease of Typing       | Strongly typed, requires defining exact datatypes. | Dynamically typed, no need to define exact datatypes. |
 | Speed of Execution   | Faster execution speed compared to Python.  | Expected to run slower than Java programs.   |
 | Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
-
+<div style="background-color:#333; color:white; padding:10px;">
+1
+</div>
 
 
 
