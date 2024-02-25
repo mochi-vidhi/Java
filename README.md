@@ -62,34 +62,10 @@ public static void main(){
 | Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
 ### Integrated development environment Software / java
 
+![image](https://github.com/mochi-vidhi/Java/assets/148563893/b361ce47-9871-47e3-95ed-f0004f030152)
 
-![image](https://github.com/mochi-vidhi/Java/assets/148563893/1b6a4199-7653-49b6-8741-0322ddcfb40c)
-IntelliJ IDEA
-Proprietary software
 
-Eclipse
-Common Public License
 
-NetBeans
-Freeware
-
-BlueJ
-GNU General Public License
-
-JDeveloper
-Proprietary software
-
-jGRASP
-Freeware
-
-DrJava
-BSD licenses
-
-JCreator
-Freeware
-
-MyEclipse
-Proprietary software
 
 
 
