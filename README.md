@@ -60,9 +60,36 @@ public static void main(){
 | Ease of Typing       | Strongly typed, requires defining exact datatypes. | Dynamically typed, no need to define exact datatypes. |
 | Speed of Execution   | Faster execution speed compared to Python.  | Expected to run slower than Java programs.   |
 | Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
-<div style="background-color:#333; color:white; padding:10px;">
-1
-</div>
+### Integrated development environment Software / java
+
+
+![image](https://github.com/mochi-vidhi/Java/assets/148563893/1b6a4199-7653-49b6-8741-0322ddcfb40c)
+IntelliJ IDEA
+Proprietary software
+
+Eclipse
+Common Public License
+
+NetBeans
+Freeware
+
+BlueJ
+GNU General Public License
+
+JDeveloper
+Proprietary software
+
+jGRASP
+Freeware
+
+DrJava
+BSD licenses
+
+JCreator
+Freeware
+
+MyEclipse
+Proprietary software
 
 
 
