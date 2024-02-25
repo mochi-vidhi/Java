@@ -75,4 +75,16 @@ public static void main(){
 - 8 jGRASP        9 Greenfoot      10 Android Studio
 ```
 ### 🔧 [JDK (Java Development Kit)](https://www.oracle.com/in/java/technologies/downloads/)
+       _________
+A0 ----|         |\
+B0 ----|  4-bit  | \
+A1 ----|  binary |  |  ____
+B1 ----|  adder  |  | |    |
+A2 ----|         |------|    |\
+B2 ----|         |------|    | |    ______
+A3 ----|         |------|    | |   |      |
+B3 ----|_________|------|____|_|---|  OR  |---- Carry Out
+                      |______|      |______|
+                        Sum Out
+
 -   
