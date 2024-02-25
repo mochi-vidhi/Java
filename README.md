@@ -67,17 +67,8 @@ public static void main(){
   and accountants use spreadsheets, software developers use IDEs to make their job easier.
 ## Various IDE for java
 - TO write java code you need place basicaly to write code you need editor like notepad we have but multiple software which we can write java code.
--  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.-
-- [visual studio code](https://code.visualstudio.com/)  _____       _ _     _   _       _ _
-| ____|_ __ (_) | __| | | | ___ | | | ___ _ __
-|  _| | '_ \| | |/ _` | | |/ _ \| | |/ _ \ '__|
-| |___| | | | | | (_| | | | (_) | | |  __/ |
-|_____|_| |_|_|_|\__,_| |_|\___/|_|_|\___|_|
-
-- 
-
-
-
-
-
- 
+-  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.
+-  1 Eclipse          \t\t 2 IntelliJ IDEA   \t\t 3 NetBeans
+- 4 V.S.Code         \t\t 5 BlueJ          \t\t 4 DrJava
+- 5 JDeveloper       \t\t 6 JCreator       \t\t 7 MyEclipse
+- 8 jGRASP           \t\t 9 Greenfoot      \t\t 10 Android Studio
