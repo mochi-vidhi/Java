@@ -68,10 +68,14 @@ public static void main(){
 ## Various IDE for java
 - TO write java code you need place basicaly to write code you need editor like notepad we have but multiple software which we can write java code.
 -  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.-
-```java
-- [visual studio code](https://code.visualstudio.com/)
+- [visual studio code](https://code.visualstudio.com/)  _____       _ _     _   _       _ _
+| ____|_ __ (_) | __| | | | ___ | | | ___ _ __
+|  _| | '_ \| | |/ _` | | |/ _ \| | |/ _ \ '__|
+| |___| | | | | | (_| | | | (_) | | |  __/ |
+|_____|_| |_|_|_|\__,_| |_|\___/|_|_|\___|_|
+
 - 
-```
+
 
 
 
