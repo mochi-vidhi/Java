@@ -68,7 +68,9 @@ public static void main(){
 ## Various IDE for java
 - TO write java code you need place basicaly to write code you need editor like notepad we have but multiple software which we can write java code.
 -  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.
--  1 Eclipse          \t\t 2 IntelliJ IDEA   \t\t 3 NetBeans
-- 4 V.S.Code         \t\t 5 BlueJ          \t\t 4 DrJava
-- 5 JDeveloper       \t\t 6 JCreator       \t\t 7 MyEclipse
-- 8 jGRASP           \t\t 9 Greenfoot      \t\t 10 Android Studio
+```java
+- 1 Eclipse       2 IntelliJ IDEA   3 NetBeans
+- 4 V.S.Code      5 BlueJ           4 DrJava
+- 5 JDeveloper    6 JCreator        7 MyEclipse
+- 8 jGRASP        9 Greenfoot      10 Android Studio
+```
