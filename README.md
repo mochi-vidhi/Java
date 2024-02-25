@@ -61,10 +61,17 @@ public static void main(){
 | Speed of Execution   | Faster execution speed compared to Python.  | Expected to run slower than Java programs.   |
 | Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
 ### Integrated development environment Software / java
-
-![image](https://github.com/mochi-vidhi/Java/assets/148563893/b361ce47-9871-47e3-95ed-f0004f030152)
-
-
+## what is IDE??📝
+- An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity
+  by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application. Just as writers use text editors
+  and accountants use spreadsheets, software developers use IDEs to make their job easier.
+## Various IDE for java
+- TO write java code you need place basicaly to write code you need editor like notepad we have but multiple software which we can write java code.
+-  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.-
+```java
+- [visual studio code](https://code.visualstudio.com/)
+- 
+```
 
 
 
