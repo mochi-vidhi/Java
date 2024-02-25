@@ -60,12 +60,12 @@ public static void main(){
 | Ease of Typing       | Strongly typed, requires defining exact datatypes. | Dynamically typed, no need to define exact datatypes. |
 | Speed of Execution   | Faster execution speed compared to Python.  | Expected to run slower than Java programs.   |
 | Multiple Inheritance | Partially done through interfaces.           | Limited support, single inheritance preferred. |
-### Integrated development environment Software / java
-## what is IDE??📝
+## Integrated development environment Software / java
+### what is IDE??📝
 - An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity
   by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application. Just as writers use text editors
   and accountants use spreadsheets, software developers use IDEs to make their job easier.
-## Various IDE for java
+### Various IDE for java 🛠️ ☕
 - TO write java code you need place basicaly to write code you need editor like notepad we have but multiple software which we can write java code.
 -  we can write java on notepad plus plus,wordpad but to make real life projects,to debug the code,to run the code we need IDE.
 ```java
@@ -74,3 +74,5 @@ public static void main(){
 - 5 JDeveloper    6 JCreator        7 MyEclipse
 - 8 jGRASP        9 Greenfoot      10 Android Studio
 ```
+### 🔧 [JDK (Java Development Kit)](https://www.oracle.com/in/java/technologies/downloads/)
+-   
