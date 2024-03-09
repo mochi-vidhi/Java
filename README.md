@@ -78,4 +78,14 @@ public static void main(){
 - [All about JDK😄](https://www.geeksforgeeks.org/jdk-in-java/?ref=lbp)
 - [How to Install JDK🚀](https://youtu.be/WRISYpKhIrc?si=EAWKn38Fz8X8r8Sy)
 - [How JVM Works – JVM Architecture? 🤔🚀](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/?ref=lbp)
+### Differences between JDK🛠️, JRE🏃‍♂️ and JVM 💻
+| Aspect          | JDK (Java Development Kit)                                          | JRE (Java Runtime Environment)                                          | JVM (Java Virtual Machine)                                             |
+|-----------------|------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Full Form       | Java Development Kit                                                 | Java Runtime Environment                                                 | Java Virtual Machine                                                    |
+| Description     | Software development kit used for developing Java applications      | Environment used for executing Java applications                        | Virtual machine that runs Java bytecode                                 |
+| Components      | Compiler, libraries, tools, and documentation                      | Libraries and environment necessary for executing Java applications     | Virtual machine implementation that executes Java bytecode             |
+| Usage           | Needed for developing Java applications                             | Needed for running Java applications                                    | Responsible for executing Java bytecode                                 |
+| Example Use     | Case Developing Java applications, building and packaging applications | Running Java applications, executing Java applets                       | Executing compiled Java bytecode, providing platform independence for Java code |
+| Installation    | Requires downloading and installing the JDK package from the Oracle website | Comes bundled with the JDK installation, or can be downloaded separately | Part of the JDK installation, no separate installation needed            |
+
 
