@@ -75,7 +75,7 @@ public static void main(){
 - 8 jGRASP        9 Greenfoot      10 Android Studio
 ```
 ### 🔧 [JDK (Java Development Kit)](https://www.oracle.com/in/java/technologies/downloads/)
-- (All about JDK😄)[https://www.geeksforgeeks.org/jdk-in-java/?ref=lbp]
-- (How to Install JDK🚀)[https://youtu.be/WRISYpKhIrc?si=EAWKn38Fz8X8r8Sy]
+- [All about JDK😄](https://www.geeksforgeeks.org/jdk-in-java/?ref=lbp)
+- [How to Install JDK🚀](https://youtu.be/WRISYpKhIrc?si=EAWKn38Fz8X8r8Sy)
 - [How JVM Works – JVM Architecture? 🤔🚀](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/?ref=lbp)
 
