@@ -76,4 +76,6 @@ public static void main(){
 ```
 ### 🔧 [JDK (Java Development Kit)](https://www.oracle.com/in/java/technologies/downloads/)
 - (All about JDK😄)[https://www.geeksforgeeks.org/jdk-in-java/?ref=lbp]
-- [How to Install JDK🚀](https://youtu.be/WRISYpKhIrc?si=EAWKn38Fz8X8r8Sy) 
+- (How to Install JDK🚀)[https://youtu.be/WRISYpKhIrc?si=EAWKn38Fz8X8r8Sy]
+- [How JVM Works – JVM Architecture? 🤔🚀](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/?ref=lbp)
+
