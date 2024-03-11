@@ -87,11 +87,11 @@ public static void main(){
 | Usage           | Needed for developing Java applications                             | Needed for running Java applications                                    | Responsible for executing Java bytecode                                 |
 | Example Use     | Case Developing Java applications, building and packaging applications | Running Java applications, executing Java applets                       | Executing compiled Java bytecode, providing platform independence for Java code |
 | Installation    | Requires downloading and installing the JDK package from the Oracle website | Comes bundled with the JDK installation, or can be downloaded separately | Part of the JDK installation, no separate installation needed            |
-### between Byte Code 🏁 Machine Code
-+------------------+------------------+------------------+------------------+------------------+
-| Java Program     | Java Compiler    | Java Byte Code   | Java Interpreter | Machine Code     |          
-| (Source Code)    |                  |                  |                  |                  |             
-+------------------+------------------+------------------+------------------+------------------+
+### Byte Code 🏁 Machine Code
+```java
+![image](https://github.com/mochi-vidhi/Java/assets/148563893/8fd66c48-ef3d-4b7d-97c8-e8b7db21d049)
+```
+
 
 | S.NO. | Byte Code                                               | Machine Code                                             |
 |-------|---------------------------------------------------------|----------------------------------------------------------|
