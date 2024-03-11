@@ -87,5 +87,23 @@ public static void main(){
 | Usage           | Needed for developing Java applications                             | Needed for running Java applications                                    | Responsible for executing Java bytecode                                 |
 | Example Use     | Case Developing Java applications, building and packaging applications | Running Java applications, executing Java applets                       | Executing compiled Java bytecode, providing platform independence for Java code |
 | Installation    | Requires downloading and installing the JDK package from the Oracle website | Comes bundled with the JDK installation, or can be downloaded separately | Part of the JDK installation, no separate installation needed            |
+### between Byte Code 🏁 Machine Code
++------------------+------------------+------------------+------------------+------------------+
+| Java Program     | Java Compiler    | Java Byte Code   | Java Interpreter | Machine Code     |          
+| (Source Code)    |                  |                  |                  |                  |             
++------------------+------------------+------------------+------------------+------------------+
+
+| S.NO. | Byte Code                                               | Machine Code                                             |
+|-------|---------------------------------------------------------|----------------------------------------------------------|
+| 01.   | Byte Code consisting of binary, hexadecimal, macro instructions like (new, add, swap, etc) and it is not directly understandable by the CPU. It is designed for efficient execution by software such as a virtual machine. | Machine Code consisting of binary instructions that are directly understandable by the CPU. |
+| 02.   | Byte code is considered as the intermediate-level code. | Machine Code is considered as the low-level code.      |
+| 03.   | Byte code is a non-runnable code generated after compilation of source code and it relies on an interpreter to get executed. | Machine code is a set of instructions in machine language or in binary format and it is directly executed by CPU. |
+| 04.   | Byte code is executed by the virtual machine then the Central Processing Unit. | Machine code is not executed by a virtual machine it is directly executed by CPU. |
+| 05.   | Byte code is less specific towards machine than the machine code. | Machine code is more specific towards machine than the byte code. |
+| 06.   | It is platform-independent as it is dependent on the virtual machine and the system having a virtual machine can be executed irrespective of the platform. | It is not platform independent because the object code of one platform can not be run on the different Operating System. Object varies depending upon system architecture and native instructions associated with the machine. |
+| 07.   | All the source code need not be converted into byte code for execution by CPU. Some source code written by any specific high-level language is converted into byte code then byte code to object code for execution by CPU. | All the source code must be converted into machine code before it is executed by the CPU. |
+
+
+
 
 
