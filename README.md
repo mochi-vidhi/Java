@@ -99,7 +99,7 @@ public static void main(){
 | 05.   | Byte code is less specific towards machine than the machine code. | Machine code is more specific towards machine than the byte code. |
 | 06.   | It is platform-independent as it is dependent on the virtual machine and the system having a virtual machine can be executed irrespective of the platform. | It is not platform independent because the object code of one platform can not be run on the different Operating System. Object varies depending upon system architecture and native instructions associated with the machine. |
 | 07.   | All the source code need not be converted into byte code for execution by CPU. Some source code written by any specific high-level language is converted into byte code then byte code to object code for execution by CPU. | All the source code must be converted into machine code before it is executed by the CPU. |
-### (How is Java platform independent?)[geeksforgeeks.org/java-platform-independent/?ref=lbp]
+### [How is Java platform independent?](geeksforgeeks.org/java-platform-independent/?ref=lbp)
 
 
 
