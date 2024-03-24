@@ -100,8 +100,27 @@ public static void main(){
 | 06.   | It is platform-independent as it is dependent on the virtual machine and the system having a virtual machine can be executed irrespective of the platform. | It is not platform independent because the object code of one platform can not be run on the different Operating System. Object varies depending upon system architecture and native instructions associated with the machine. |
 | 07.   | All the source code need not be converted into byte code for execution by CPU. Some source code written by any specific high-level language is converted into byte code then byte code to object code for execution by CPU. | All the source code must be converted into machine code before it is executed by the CPU. |
 ### [How is Java platform independent?](geeksforgeeks.org/java-platform-independent/?ref=lbp)
+## Java Basic Syntax 🙂
+- In java all variables and main methods or methods are written inside the class so in java we work with make the class.
+```java
+class Simple{ <---- we create a class    
+    public static void main(String args[]){  <---- This is main method like we create in c as void main() 
+     System.out.println("Hello Java");   <---- Print the statement we use in java System.out.println
+    }  
+}
+```
+- In java Main class name same as our file name so the file name is Simple.java
 
-
+### Basic terminologies in Java 
+- 1  Class: The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that share common properties and methods.
+   Example1: Blueprint of the house is class.
+- 2 Object: The object is an instance of a class. It is an entity that has behavior and state.
+            Example: Dog, Cat, Monkey etc. are the object of “Animal” class.
+            Behavior: Running on the road.
+- 3. Method: The behavior of an object is the method.
+     Example: The fuel indicator indicates the amount of fuel left in the car.
+- 4. Instance variables: Every object has its own unique set of instance variables. The state of an object is generally
+                         created by the values that are assigned to these instance variables.
 
 
 
