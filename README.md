@@ -103,24 +103,55 @@ public static void main(){
 ## Java Basic Syntax 🙂
 - In java all variables and main methods or methods are written inside the class so in java we work with make the class.
 ```java
-class Simple{ <---- we create a class    
-    public static void main(String args[]){  <---- This is main method like we create in c as void main() 
-     System.out.println("Hello Java");   <---- Print the statement we use in java System.out.println
+class Simple{ //<---- we create a class    
+    public static void main(String args[]){  //<---- This is main method like we create in c as void main() 
+     System.out.println("Hello Java");   //<---- Print the statement we use in java System.out.println
     }  
 }
 ```
 - In java Main class name same as our file name so the file name is Simple.java
-
+- In above code String args[] is command line argument.
 ### Basic terminologies in Java 
-- 1  Class: The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that share common properties and methods.
+- 1 Class: The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that share common properties and methods.
    Example1: Blueprint of the house is class.
-- 2 Object: The object is an instance of a class. It is an entity that has behavior and state.
+- 2  Object: The object is an instance of a class. It is an entity that has behavior and state.
             Example: Dog, Cat, Monkey etc. are the object of “Animal” class.
             Behavior: Running on the road.
-- 3. Method: The behavior of an object is the method.
+- 3 Method: The behavior of an object is the method.
      Example: The fuel indicator indicates the amount of fuel left in the car.
-- 4. Instance variables: Every object has its own unique set of instance variables. The state of an object is generally
+- 4 Instance variables: Every object has its own unique set of instance variables. The state of an object is generally
                          created by the values that are assigned to these instance variables.
+### How to execute Java Code 👋
+```java
+javac filename.java - For Compile the code
+java Main class name - For run the code
+Ex.
+javac Hello.java
+java Hello
+```
+### Class Names {}
+- i. The first letter of the class should be in Uppercase (lowercase is allowed but discouraged).
+- ii. If several words are used to form the name of the class, each inner word’s first letter should be in Uppercase.
+       Underscores are allowed, but not recommended. Also allowed are numbers and currency symbols, although the latter are also
+       discouraged because they are used for a special purpose (for inner and anonymous classes).
+ ```java
+class MyJavaProgram    // valid syntax
+class 1Program         // invalid syntax
+class My1Program       // valid syntax
+class $Program         // valid syntax, but discouraged
+class My$Program       // valid syntax, but discouraged (inner class Program inside the class My)
+class myJavaProgram    // valid syntax, but discouraged
+```
+### Method Names ()
+
+i. All the method names should start with a lowercase letter (uppercase is also allowed but lowercase is recommended).
+ii. If several words are used to form the name of the method, then each first letter of the inner word should be in Uppercase. 
+Underscores are allowed, but not recommended. Also allowed are digits and currency symbols.
+```java
+public void employeeRecords() // valid syntax
+public void EmployeeRecords() // valid syntax, but discouraged
+```
+
 
 
 
