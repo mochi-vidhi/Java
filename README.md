@@ -167,7 +167,7 @@ public void EmployeeRecords() // valid syntax, but discouraged
 | `double`    | Floating point (double precision)               | 8 bytes  | 0.0d           | `double pi = 3.14159265359;` |
 | `char`      | Unicode character                               | 2 bytes  | '\u0000'       | `char grade = 'A';`  |
 | `boolean`   | Boolean value                                   | 1 bit    | `false`        | `boolean isValid = true;` |
-
+### [Java Identifiers 💁‍♀️](https://www.geeksforgeeks.org/java-identifiers/?ref=lbp)
 
 
 
