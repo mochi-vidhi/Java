@@ -121,7 +121,7 @@ class Simple{ //<---- we create a class
      Example: The fuel indicator indicates the amount of fuel left in the car.
 - 4 Instance variables: Every object has its own unique set of instance variables. The state of an object is generally
                          created by the values that are assigned to these instance variables.
-### How to execute Java Code 👋
+### How to execute Java Code 👋👩🏽‍💻✌🏽
 ```java
 javac filename.java - For Compile the code
 java Main class name - For run the code
@@ -129,7 +129,7 @@ Ex.
 javac Hello.java
 java Hello
 ```
-### Class Names {}
+### Class Names {} 👇
 - i. The first letter of the class should be in Uppercase (lowercase is allowed but discouraged).
 - ii. If several words are used to form the name of the class, each inner word’s first letter should be in Uppercase.
        Underscores are allowed, but not recommended. Also allowed are numbers and currency symbols, although the latter are also
@@ -142,7 +142,7 @@ class $Program         // valid syntax, but discouraged
 class My$Program       // valid syntax, but discouraged (inner class Program inside the class My)
 class myJavaProgram    // valid syntax, but discouraged
 ```
-### Method Names ()
+### Method Names () 👇
 
 i. All the method names should start with a lowercase letter (uppercase is also allowed but lowercase is recommended).
 ii. If several words are used to form the name of the method, then each first letter of the inner word should be in Uppercase. 
@@ -151,6 +151,23 @@ Underscores are allowed, but not recommended. Also allowed are digits and curren
 public void employeeRecords() // valid syntax
 public void EmployeeRecords() // valid syntax, but discouraged
 ```
+## DataTypes in java 🍵🗂
+- Data types in Java are of different sizes and values that can be stored in the variable that is made as per convenience and circumstances to cover up all test cases.
+- Java has two categories in which data types are segregated 
+- Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double
+- Non-Primitive Data Type or Object Data type: such as String, Array, etc.
+
+| Data Type   | Description                                      | Size     | Default Value  | Example              |
+|-------------|--------------------------------------------------|----------|----------------|----------------------|
+| `byte`      | Signed integer                                  | 1 byte   | 0              | `byte age = 30;`     |
+| `short`     | Signed integer                                  | 2 bytes  | 0              | `short temperature = -10;` |
+| `int`       | Signed integer                                  | 4 bytes  | 0              | `int count = 1000;`  |
+| `long`      | Signed integer                                  | 8 bytes  | 0L             | `long population = 7000000000L;` |
+| `float`     | Floating point (single precision)               | 4 bytes  | 0.0f           | `float pi = 3.14f;`  |
+| `double`    | Floating point (double precision)               | 8 bytes  | 0.0d           | `double pi = 3.14159265359;` |
+| `char`      | Unicode character                               | 2 bytes  | '\u0000'       | `char grade = 'A';`  |
+| `boolean`   | Boolean value                                   | 1 bit    | `false`        | `boolean isValid = true;` |
+
 
 
 
